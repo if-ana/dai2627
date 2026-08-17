@@ -4,7 +4,7 @@
 Materiales de Desarrollo de Aplicaciones en Internet
 ====================================================
 
-Universitat d'Alacant, curso 2025–2026
+Universitat d'Alacant, curso 2026–2027
 --------------------------------------
 
 *«The web is more a social creation than a technical one», Tim Berners-Lee*
