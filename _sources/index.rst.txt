@@ -185,7 +185,7 @@ El `código fuente`_ de estas páginas, escrito en reStructuredText, está dispo
 
 Puedes obtener una copia local de estas páginas (por ejemplo, para poder consultarlas sin conexión) ejecutando::
 
-  wget --mirror --no-parent --convert-links --page-requisites https://martingrm.github.io/dai2526/index.html
+  wget --mirror --no-parent --convert-links --page-requisites https://if-ana.github.io/dai2627/index.html
 
 Contenidos
 ----------
