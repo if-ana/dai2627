@@ -19,22 +19,22 @@ Este es el calendario de cada uno de los entregables de la asignatura. No se adm
       - Porcentaje en la nota de prácticas
     * - P1
       - `Práctica 1: una página web con HTML y CSS 🖥️`_
-      - 2 octubre 2025
+      - 29 septiembre 2026
       - 8 horas
       - 20%
     * - P2
       - `Práctica 2: una aplicación web local 🖥️`_
-      - 30 octubre 2025
+      - 27 octubre 2026
       - 14 horas
       - 25%
     * - P3
       - `Práctica 3: una aplicación con acceso a servicios web de terceros y con componentes web 🖥️`_
-      - 20 noviembre 2025
+      - 17 noviembre 2026
       - 12 horas
       - 25%
     * - P4
       - `Práctica 4: una aplicación en la nube 🖥️`_
-      - 21 diciembre 2025
+      - 22 diciembre 2026
       - 20 horas
       - 30%
 
