@@ -35,7 +35,7 @@ Novedades
 
 
     * - 01 sep
-      - Ya está publicado el enunciado de la primera práctica. De hecho, están publicados los enunciados de todas las prácticas. Las clases de teoría comienzan el día 9 de septiembre.
+      - Ya está publicado el enunciado de la primera práctica. De hecho, están publicados los enunciados de todas las prácticas. Las clases de teoría comienzan el día 8 de septiembre.
 ..   
     * - 06 sep
       - Debido a las obras que se están realizando en la EPS IV, no habrá clase de prácticas como tal hasta que el laboratorio de ordenadores que tenemos asignado esté disponible. Al final de las clases de teoría se darán indicaciones o recomendaciones y se programarán tutorías colectivas para resolver las dudas que vayan surgiendo (además de las tutorías tanto escritas como online o presenciales que podéis solicitar).
@@ -116,6 +116,7 @@ Novedades
 
 Actividades previas a las clases
 --------------------------------
+..
 
 - Antes de la clase del 23/09/2025: estudia los vídeos y practica con la actividad ":ref:`label-intro-css`" (duración total de los vídeos: unos 35 minutos; unos 25 a velocidad 1,5x). A continuación, contesta el `test sobre la introducción a CSS`_ (plazo límite: 21/09/2025, 23:59 horas). Utiliza tu cuenta de ``gcloud.ua.es`` para acceder a todos estos materiales. Si tu ancho de banda te lo permite, puedes elegir explícitamente una resolución de 1080 píxeles para el vídeo.
 - Antes de la clase del 30/09/2025: lee detenidamente y practica con lo discutido en las actividades siguientes: ":ref:`label-inline-css`", ":ref:`label-caja-css`" y ":ref:`label-posicionamiento-css`". A continuación, contesta el `test sobre el modelo de caja de CSS`_ (plazo límite: 28/09/2025, 23:59 horas). Recuerda utilizar tu cuenta de ``gcloud.ua.es`` para acceder a los materiales que requieran autenticación.
