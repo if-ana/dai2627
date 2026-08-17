@@ -116,7 +116,7 @@ Novedades
 
 Actividades previas a las clases
 --------------------------------
-
+ _`test sobre características adicionales de CSS`: https://forms.gle/VD6wtRTpVCwskoLo9
 
 .. - Antes de la clase del 23/09/2025: estudia los vídeos y practica con la actividad ":ref:`label-intro-css`" (duración total de los vídeos: unos 35 minutos; unos 25 a velocidad 1,5x). A continuación, contesta el `test sobre la introducción a CSS`_ (plazo límite: 21/09/2025, 23:59 horas). Utiliza tu cuenta de ``gcloud.ua.es`` para acceder a todos estos materiales. Si tu ancho de banda te lo permite, puedes elegir explícitamente una resolución de 1080 píxeles para el vídeo.
 .. - Antes de la clase del 30/09/2025: lee detenidamente y practica con lo discutido en las actividades siguientes: ":ref:`label-inline-css`", ":ref:`label-caja-css`" y ":ref:`label-posicionamiento-css`". A continuación, contesta el `test sobre el modelo de caja de CSS`_ (plazo límite: 28/09/2025, 23:59 horas). Recuerda utilizar tu cuenta de ``gcloud.ua.es`` para acceder a los materiales que requieran autenticación.
@@ -135,7 +135,7 @@ Actividades previas a las clases
 .. - Antes de la clase del 17/12/2024: realiza la actividad ":ref:`label-extracss`" en la que has de ver un par de vídeos sobre características adicionales de CSS (duración total de los vídeos: unas 2 horas y media; un poco más de 1 hora y media a 1,5x). A continuación, contesta el `test sobre características adicionales de CSS`_ (plazo límite: 16/12/2024, 23:59 horas).
 .. - Para la próxima sesión de clase (10/12/2024) no hay actividades previas a realizar. Se estudiará en clase la plataforma Docker, pero sin necesidad de una preparación anterior por parte del estudiante. Así podrás avanzar más en la práctica 4 o simplemente desconectar un poco durante los días del puente :-)
 
-   _`test sobre características adicionales de CSS`: https://forms.gle/VD6wtRTpVCwskoLo9
+.. _`test sobre características adicionales de CSS`: https://forms.gle/VD6wtRTpVCwskoLo9
 .. _`test sobre computación en la nube`: https://forms.gle/WUqR6Z3AaHKrqZ9J7
 .. _`test sobre Google Cloud Platform`: https://forms.gle/6cCTbvJWTekiHGLc9
 .. _`test sobre despliegue de aplicaciones web`: https://forms.gle/GUbu37fNwaYyfgPV7
