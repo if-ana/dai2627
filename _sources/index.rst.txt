@@ -33,6 +33,7 @@ Novedades
     :header-rows: 0
     :class: tablita
 
+..
     * - 01 sep
       - Ya está publicado el enunciado de la primera práctica. De hecho, están publicados los enunciados de todas las prácticas. Las clases de teoría comienzan el día 9 de septiembre.
     * - 06 sep
