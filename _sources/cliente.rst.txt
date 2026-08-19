@@ -24,12 +24,12 @@ Introducción al lenguaje de programación JavaScript
 
   Estudia todos los vídeos de la serie "Introducción a JavaScript" en los que se presentan los elementos principales del lenguaje: `parte 1-1`_, `parte 1-2`_, `parte 1-3`_, `parte 1-4`_, `parte 1-5`_ y `parte 1-6`_.
 
-  .. _`parte 1-1`: https://drive.google.com/file/d/1p3ThE3xA1ubg3jJXFd968ucwckVpayKy/view?usp=sharing
-  .. _`parte 1-2`: https://drive.google.com/file/d/1MgFD19HaWSPo6P_CnPUFF6kmCLJJowEx/view?usp=sharing
-  .. _`parte 1-3`: https://drive.google.com/file/d/1GInxvZFxgt8GcS2cWzbMRWEDpNi0kHmG/view?usp=sharing
-  .. _`parte 1-4`: https://drive.google.com/file/d/1SrmuNde9DeOoOOClZ2WDGbf-aZH4vi33/view?usp=sharing
-  .. _`parte 1-5`: https://drive.google.com/file/d/15Z-leYRlWbMmPWQZczqakCt0q3jMLAcJ/view?usp=sharing
-  .. _`parte 1-6`: https://drive.google.com/file/d/1uP37JivyhSZeEgqwzcD57CznQwzLqS-Z/view?usp=sharing
+  .. _`parte 1-1`: https://drive.google.com/file/d/16U89oXn1y2VVQ8AD7-4nQOYB0aYYEN2Z/view?usp=sharing
+  .. _`parte 1-2`: https://drive.google.com/file/d/1XArhQa7cMpggnc182SksixtZD385NNah/view?usp=sharing
+  .. _`parte 1-3`: https://drive.google.com/file/d/1XGWN2B74gIHBCw-6qcf5gJ-6bFBUndmv/view?usp=sharing
+  .. _`parte 1-4`: https://drive.google.com/file/d/1t7BMwP1VMJlNq0yWKY9u0J47x_C-McCw/view?usp=sharing
+  .. _`parte 1-5`: https://drive.google.com/file/d/1-Lt1Nk4VF3yTjECCQ51nZPadswdDNFc3/view?usp=sharing
+  .. _`parte 1-6`: https://drive.google.com/file/d/12Lyxgz-UV-CGIqQnD2DVhbYBGwmxQDE_/view?usp=sharing
 
 Elementos más avanzados del lenguaje o las características adicionales a las que un programador puede acceder cuando escribe programas en JavaScript para ser ejecutados por un navegador se estudiarán más adelante. Los conceptos que tienes que comprender del lenguaje se encuentran recogidos en `estas diapositivas`_, que también contiene información sobre elementos más avanzados que estudiaremos más adelante.
 
@@ -154,11 +154,11 @@ El código que se incluye más abajo muestra *en acción*, a modo de introducci�
 
   Lee los comentarios para entender el propósito de cada línea, pero ten en cuenta que en actividades posteriores ampliaremos estos elementos. Estudia después todos los vídeos de la serie "Una aplicación web sencilla con JavaScript" en los que se comenta este código con detalle: `parte 2-1`_, `parte 2-2`_, `parte 2-3`_, `parte 2-4`_ y `parte 2-5`_. Repasa después, otra vez, el código y asegúrate de que ahora comprendes mejor cada una de sus instrucciones.
 
-  .. _`parte 2-1`: https://drive.google.com/file/d/1YUI7AIgzHO9vcGnmxJ9h84YyEZy9MnXi/view?usp=sharing
-  .. _`parte 2-2`: https://drive.google.com/file/d/1g_enM9nz9iVIsGJYmV_HOUORdIs6PUeA/view?usp=sharing
-  .. _`parte 2-3`: https://drive.google.com/file/d/1Iw6z9tf4Jc-XztH7sDa16LANPVF56xDw/view?usp=sharing
-  .. _`parte 2-4`: https://drive.google.com/file/d/1Py4eM_Zu8EHW6hIqw1JXktSVnGuSw47j/view?usp=sharing
-  .. _`parte 2-5`: https://drive.google.com/file/d/16ZE7bQHXPTcRO7xCbqml_9m-nsenmgBB/view?usp=sharing
+  .. _`parte 2-1`: https://drive.google.com/file/d/1NF8e46E8ehUjSgls5B-nZzZ2HdNR15Br/view?usp=sharing
+  .. _`parte 2-2`: https://drive.google.com/file/d/1bAXNbRRZDo_sAIdyNP757EFcOs_TtOcR/view?usp=sharing
+  .. _`parte 2-3`: https://drive.google.com/file/d/1OKFihNJbHNDz2loRlUZ4a6xen3dpETOw/view?usp=sharing
+  .. _`parte 2-4`: https://drive.google.com/file/d/15IwH0JLMB5JjLhG3yAXSu7aPt7EWkUHN/view?usp=sharing
+  .. _`parte 2-5`: https://drive.google.com/file/d/1DQMUzPPMO4ynQ8XeD-nJuDTDdG4UTptv/view?usp=sharing
 
 
 .. literalinclude:: _static/data/ejemplo-apis-js.html
@@ -193,13 +193,13 @@ Los navegadores incluyen una serie de librerías estandarizadas para programar l
 
   Estudia todos los vídeos de la serie "El API del navegador para JavaScript" en los que se presentan los elementos principales del lenguaje: `parte 3-1`_, `parte 3-2`_, `parte 3-3`_, `parte 3-4`_, `parte 3-5`_, `parte 3-6`_ y `parte 3-7`_. Practica después con todas las funciones con la consola de JavaScript de las Chrome Devtools o con entornos como CodePen_.
 
-  .. _`parte 3-1`: https://drive.google.com/file/d/1Q-H8iZpfQ8k2h0DhMbp1hOxRK37SrCQB/view?usp=sharing
-  .. _`parte 3-2`: https://drive.google.com/file/d/1Fa4r4IPDKBHFhWOMCaX9Ca2BLb-TiljQ/view?usp=sharing
-  .. _`parte 3-3`: https://drive.google.com/file/d/1IYKnaNmt6LJO0zMp8jM5AtriYfY6FK1s/view?usp=sharing
-  .. _`parte 3-4`: https://drive.google.com/file/d/1cbN_pIzpt0CPkFp5vv2szHyd7EYCQfS4/view?usp=sharing
-  .. _`parte 3-5`: https://drive.google.com/file/d/1TFYTXsrpO5-vi9aXIdrImPAFu4ZdP4Sz/view?usp=sharing
-  .. _`parte 3-6`: https://drive.google.com/file/d/1ySWqKaravIKkI8s860FL8ZoB73t7cinm/view?usp=sharing
-  .. _`parte 3-7`: https://drive.google.com/file/d/1eJjgloOm5q8RVyeQDtpr6FKUpjlGjJ2w/view?usp=sharing
+  .. _`parte 3-1`: https://drive.google.com/file/d/1Kpwj8Wz4VP5ET3lXk4qSGJGZ1X0p1x2P/view?usp=sharing
+  .. _`parte 3-2`: https://drive.google.com/file/d/1GtTyXr2Paxfbx3ji4zjmx60Sgb7gQ4OQ/view?usp=sharing
+  .. _`parte 3-3`: https://drive.google.com/file/d/1zlQbJ2lOSChoIPCW3Xa7yhSSn0gkKcni/view?usp=sharing
+  .. _`parte 3-4`: https://drive.google.com/file/d/1Hak301A8pUi1axzTd1R3IN-nOVTGrldU/view?usp=sharing
+  .. _`parte 3-5`: https://drive.google.com/file/d/1Ddg8tdMDNUorSQ1Hb9ZPtnwop1OqSZSx/view?usp=sharing
+  .. _`parte 3-6`: https://drive.google.com/file/d/17AmJYu9-f1eeFQZgKCqLDMM18yx2FK7P/view?usp=sharing
+  .. _`parte 3-7`: https://drive.google.com/file/d/1jmo68n_ilZCJWAYlRhDkWR-Z3F-ev2Nk/view?usp=sharing
   .. _CodePen: http://codepen.io/
 
 Los conceptos que tienes que estudiar de estas APIs se encuentran recogidos en `estas otras diapositivas`_.
