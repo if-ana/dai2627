@@ -198,7 +198,7 @@ Cómo compartir código con el profesor
 
 Si quieres que el profesor pueda ayudarte con algún código que estás desarrollando, mandar un pantallazo no es la mejor opción. Envíale el código completo, por ejemplo, compartiendo con `su usuario`_ un repositorio privado de Github.
 
-.. _`su usuario`: https://github.com/martingrm
+.. _`su usuario`: https://github.com/if-ana
 .. _carrito: https://repl.it/@jaspock/Carrito
 
 
