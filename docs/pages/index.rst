@@ -180,7 +180,7 @@ Puedes encontrar algo de información adicional en las diapositivas usadas en la
 
 El `código fuente`_ de estas páginas, escrito en reStructuredText, está disponible en Github.
 
-.. _`código fuente`: https://github.com/if-ana/dai2526
+.. _`código fuente`: https://github.com/if-ana/dai2627
 
 Puedes obtener una copia local de estas páginas (por ejemplo, para poder consultarlas sin conexión) ejecutando::
 
