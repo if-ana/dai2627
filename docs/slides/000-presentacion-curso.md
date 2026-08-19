@@ -1,13 +1,13 @@
 % Desarrollo de Aplicaciones en Internet
 % Universitat d'Alacant
-% 2025&mdash;2026
+% 2026&mdash;2027
 
 ## Profesor y tutoría
 
-- Profesor: Martín García Ripoll, Departamento de Lenguajes y Sistemas Informáticos
-- martin.garcia@ua.es
+- Profesor: Ana Ángeles Marco Fernández, Departamento de Lenguajes y Sistemas Informáticos
+- @ua.es
 - Edificio Politécnica 4, módulo 2, planta 2
-- Coordinador: Juan Antonio Pérez
+- Coordinador: Ana Ángeles Marco Fernández
 - Tutoría previa reserva a través de UACloud
 
 ## Contenido de la asignatura
