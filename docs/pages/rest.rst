@@ -102,7 +102,7 @@ Ahora vamos a ver cómo interactuar con la API del carrito desde JavaScript (en 
   :language: html
   :linenos:
 
-.. _`gestión de carritos de la compra`: https://dai2526-martin.garcia-e29533c2.ey.r.appspot.com/carrito.html
+.. _`gestión de carritos de la compra`: https://drive.google.com/file/d/11S4KmDQr0VpRcQSVZZyWzmjjr6gs8O1k/view?usp=sharing
 
 .. cambiar enlace a GAE en dos sitios de esta página
 
