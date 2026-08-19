@@ -133,7 +133,7 @@ Actividades previas a las clases
  - Para la próxima (y última) sesión de clase (16/12/2025) no hay actividades previas a realizar. Se verá algún ejemplo de exámenes de cursos anteriores.
 
  - Antes de la clase del 22/12/2026: realiza la actividad ":ref:`label-extracss`" en la que has de ver un par de vídeos sobre características adicionales de CSS (duración total de los vídeos: unas 2 horas y media; un poco más de 1 hora y media a 1,5x). A continuación, contesta el `test sobre características adicionales de CSS`_ (plazo límite: 16/12/2024, 23:59 horas).
- - Para la próxima sesión de clase (10/12/2024) no hay actividades previas a realizar. Se estudiará en clase la plataforma Docker, pero sin necesidad de una preparación anterior por parte del estudiante. Así podrás avanzar más en la práctica 4 o simplemente desconectar un poco durante los días del puente :-)
+.. - Para la próxima sesión de clase (10/12/2024) no hay actividades previas a realizar. Se estudiará en clase la plataforma Docker, pero sin necesidad de una preparación anterior por parte del estudiante. Así podrás avanzar más en la práctica 4 o simplemente desconectar un poco durante los días del puente :-)
 
 .. _`test sobre características adicionales de CSS`: https://forms.gle/3qNrRBmwoQws257t7
 .. _`test sobre computación en la nube`: https://forms.gle/NLHFgKywLX9tymmF9
