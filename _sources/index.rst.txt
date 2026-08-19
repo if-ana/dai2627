@@ -157,7 +157,7 @@ Actividades previas a las clases
 Guía docente y normas del curso
 -------------------------------
 
-Estos son los materiales de clase de la asignatura Desarrollo de Aplicaciones en Internet, impartida por la profesora `Ana Ángeles Marco Fernández`_ y coordinada por la profesora `Ana Ángeles Marco Fernández`_ (`@japer3z`_) de la Universitat d'Alacant. Para obtener información sobre la evaluación de la asignatura puedes consultar la `guía docente`_. Algunos aspectos adicionales que no están recogidos en la guía son los siguientes:
+Estos son los materiales de clase de la asignatura Desarrollo de Aplicaciones en Internet, impartida por la profesora y coordinadora `Ana Ángeles Marco Fernández`_ (`@japer3z`_) de la Universitat d'Alacant. Para obtener información sobre la evaluación de la asignatura puedes consultar la `guía docente`_. Algunos aspectos adicionales que no están recogidos en la guía son los siguientes:
 
 .. _`Ana Ángeles Marco Fernández`: https://www.dlsi.ua.es/~japerez/
 .. _`@japer3z`: https://twitter.com/japer3z
