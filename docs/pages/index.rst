@@ -135,22 +135,22 @@ Actividades previas a las clases
  - Antes de la clase del 22/12/2026: realiza la actividad ":ref:`label-extracss`" en la que has de ver un par de vídeos sobre características adicionales de CSS (duración total de los vídeos: unas 2 horas y media; un poco más de 1 hora y media a 1,5x). A continuación, contesta el `test sobre características adicionales de CSS`_ (plazo límite: 16/12/2024, 23:59 horas).
  - Para la próxima sesión de clase (10/12/2024) no hay actividades previas a realizar. Se estudiará en clase la plataforma Docker, pero sin necesidad de una preparación anterior por parte del estudiante. Así podrás avanzar más en la práctica 4 o simplemente desconectar un poco durante los días del puente :-)
 
- _`test sobre características adicionales de CSS`: https://forms.gle/3qNrRBmwoQws257t7
- _`test sobre computación en la nube`: https://forms.gle/NLHFgKywLX9tymmF9
- _`test sobre Google Cloud Platform`: https://forms.gle/NKdCasAXTM6TtBkS6
- _`test sobre despliegue de aplicaciones web`: https://forms.gle/gXe4RaBqJFTMEL2X9
- _`test sobre implementación de servicios web`: https://forms.gle/RK9hpjBs4CLthgpJA
- _`test sobre componentes web`: https://forms.gle/SDgoJgieFvfVfDug8
- _`test sobre acceso a servicios web`: https://forms.gle/sZ3ZEtoYTpk5Fh5QA
- _`test sobre prototipos y clausuras en JavaScript`: https://forms.gle/7bXdkzS7CZNLYbSg8
- _`test sobre la API de los navegadores para JavaScript`: https://forms.gle/iFAe1njVwnsmydaV6
- _`test sobre la aplicación web sencilla con JavaScript`: https://forms.gle/pALFapPVDKnoY2WU6
- _`test sobre la introducción a JavaScript`: https://forms.gle/tvT5nyXyMbm19kaF7
- _`Selectores y propiedades de CSS (parte 1)`: https://drive.google.com/file/d/1i3s-LKeMsCam5-kmD65G-BMGWsJjmaA8/view?usp=sharing
- _`Selectores y propiedades de CSS (parte 2)`: https://drive.google.com/file/d/1XpPhulZBzbsS-ODtjuwZUzDNznKVphj6/view?usp=sharing
- _`Selectores y propiedades de CSS (parte 3)`: https://drive.google.com/file/d/1PhItC2tHklcq82pHclsrt1sG5eD8PmNl/view?usp=sharing
- _`test sobre la introducción a CSS`: https://docs.google.com/forms/d/e/1FAIpQLScssvMNWeQk9L1792_Y_htnsFhz8gbBv0Of34ZGWVAlhBApvg/viewform?usp=header
- _`test sobre el modelo de caja de CSS`: https://forms.gle/Qi2QhKauYzMGmpZg6
+.. _`test sobre características adicionales de CSS`: https://forms.gle/3qNrRBmwoQws257t7
+.. _`test sobre computación en la nube`: https://forms.gle/NLHFgKywLX9tymmF9
+.. _`test sobre Google Cloud Platform`: https://forms.gle/NKdCasAXTM6TtBkS6
+.. _`test sobre despliegue de aplicaciones web`: https://forms.gle/gXe4RaBqJFTMEL2X9
+.. _`test sobre implementación de servicios web`: https://forms.gle/RK9hpjBs4CLthgpJA
+.. _`test sobre componentes web`: https://forms.gle/SDgoJgieFvfVfDug8
+.. _`test sobre acceso a servicios web`: https://forms.gle/sZ3ZEtoYTpk5Fh5QA
+.. _`test sobre prototipos y clausuras en JavaScript`: https://forms.gle/7bXdkzS7CZNLYbSg8
+.. _`test sobre la API de los navegadores para JavaScript`: https://forms.gle/iFAe1njVwnsmydaV6
+.. _`test sobre la aplicación web sencilla con JavaScript`: https://forms.gle/pALFapPVDKnoY2WU6
+.. _`test sobre la introducción a JavaScript`: https://forms.gle/tvT5nyXyMbm19kaF7
+.. _`Selectores y propiedades de CSS (parte 1)`: https://drive.google.com/file/d/1i3s-LKeMsCam5-kmD65G-BMGWsJjmaA8/view?usp=sharing
+.. _`Selectores y propiedades de CSS (parte 2)`: https://drive.google.com/file/d/1XpPhulZBzbsS-ODtjuwZUzDNznKVphj6/view?usp=sharing
+.. _`Selectores y propiedades de CSS (parte 3)`: https://drive.google.com/file/d/1PhItC2tHklcq82pHclsrt1sG5eD8PmNl/view?usp=sharing
+.. _`test sobre la introducción a CSS`: https://docs.google.com/forms/d/e/1FAIpQLScssvMNWeQk9L1792_Y_htnsFhz8gbBv0Of34ZGWVAlhBApvg/viewform?usp=header
+.. _`test sobre el modelo de caja de CSS`: https://forms.gle/Qi2QhKauYzMGmpZg6
 
 
 
