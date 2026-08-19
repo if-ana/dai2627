@@ -161,7 +161,7 @@ Estos son los materiales de clase de la asignatura Desarrollo de Aplicaciones en
 
 .. _`Ana Ángeles Marco Fernández`: https://www.dlsi.ua.es/~japerez/
 .. _`@japer3z`: https://twitter.com/japer3z
-.. _`guía docente`: https://cvnet.cpd.ua.es/Guia-Docente/GuiaDocente/Index?wlengua=es&wcodasi=34063&scaca=2026-27
+.. _`guía docente`: https://cvnet.cpd.ua.es/Guia-Docente/GuiaDocente/Index?wlengua=es&wcodasi=34063&scaca=2026-27     
 
 - La asistencia a prácticas es obligatoria, aunque se puede tener un máximo de 4 faltas no justificadas. Si tienes alguna ocupación que te impide asistir a todas o gran parte de las prácticas, envía un justificante escaneado al profesor a través del sistema de tutoría de UACloud. Para justificar una falta puntual, envía al profesor el justificante por una tutoría de UACloud. Cada falta no justificada por encima de las permitidas, restará una parte de la nota final de prácticas.
 - La visita al profesor durante sus horas de tutoría no puede ser obligatoria por cuestiones normativas, pero es muy recomendable, ya que es la oportunidad de recibir supervisión sobre tus conocimientos de la materia o la calidad del código que has desarrollado. Reserva turno a través de UACloud con anterioridad tanto para un encuentro bien virtual bien presencial. Si el horario no es compatible con tu agenda, escribe al profesor e intentará encontrar un hueco fuera de dicho horario para atenderte.
