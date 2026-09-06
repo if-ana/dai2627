@@ -191,7 +191,7 @@ Una página web normalmente se aloja en un servidor web. Si la máquina en la qu
 
   .. code-block::
 
-    python -m http.server
+    python -m http.server 8080
 
   o con versiones más antiguas de Python:
 
