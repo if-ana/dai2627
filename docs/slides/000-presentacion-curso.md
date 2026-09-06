@@ -5,8 +5,7 @@
 ## Profesor y tutoría
 
 - Profesor: Ana Ángeles Marco Fernández, Departamento de Lenguajes y Sistemas Informáticos
-- @ua.es
-- Edificio Politécnica 4, módulo 2, planta 2
+- aa.marcofernandez@edu.gva.es
 - Coordinador: Ana Ángeles Marco Fernández
 - Tutoría previa reserva a través de UACloud
 
@@ -24,7 +23,7 @@
 
 ## Actividades
 
-- Actividades a realizar en casa (peso: 20%)
+- Actividades a realizar en casa (peso: 5%)
 - Para la mayoría de los temas se seguirá un enfoque de clase invertida: 
     - visionado de vídeos o lectura de materiales antes de clase
     - realización de un pequeño cuestionario
@@ -36,7 +35,7 @@
 - Desarrollo individual e incremental de una aplicación web
 - Asistencia obligatoria, pero se admite un máximo de 4 faltas sin justificar
 - Fechas aproximadas de entrega: 29 septiembre, 27 octubre, 17 noviembre, 22 diciembre
-- Peso: 40% de la nota final (sin nota mínima)
+- Peso: 25% de la nota final (sin nota mínima)
 
 ## Plagios
 
@@ -61,8 +60,8 @@
 
 ## Exámenes
 
-- Examen teórico con problemas de respuesta corta y abierta como los que iremos viendo en clase (peso: 20%)
-- Examen práctico de ampliación de la última práctica (peso: 20%)
+- Examen teórico con problemas de respuesta corta y abierta como los que iremos viendo en clase (peso: 35%)
+- Examen práctico de ampliación de la última práctica (peso: 35%)
 - Ambos exámenes se realizan uno después del otro el día de la fecha oficial
 
 ## Exámenes 
