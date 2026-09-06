@@ -156,10 +156,8 @@ Actividades previas a las clases
 Guía docente y normas del curso
 -------------------------------
 
-Estos son los materiales de clase de la asignatura Desarrollo de Aplicaciones en Internet, impartida por la profesora y coordinadora `Ana Ángeles Marco Fernández`_ (`@japer3z`_) de la Universitat d'Alacant. Para obtener información sobre la evaluación de la asignatura puedes consultar la `guía docente`_. Algunos aspectos adicionales que no están recogidos en la guía son los siguientes:
+Estos son los materiales de clase de la asignatura Desarrollo de Aplicaciones en Internet, impartida por la profesora y coordinadora **Ana Ángeles Marco Fernández** de la Universitat d'Alacant. Para obtener información sobre la evaluación de la asignatura puedes consultar la `guía docente`_. Algunos aspectos adicionales que no están recogidos en la guía son los siguientes:
 
-.. _`Ana Ángeles Marco Fernández`: https://www.dlsi.ua.es/~japerez/
-.. _`@japer3z`: https://twitter.com/japer3z
 .. _`guía docente`: https://cvnet.cpd.ua.es/Guia-Docente/GuiaDocente/Index?wlengua=es&wcodasi=34063&scaca=2026-27     
 
 - La asistencia a prácticas es obligatoria, aunque se puede tener un máximo de 4 faltas no justificadas. Si tienes alguna ocupación que te impide asistir a todas o gran parte de las prácticas, envía un justificante escaneado al profesor a través del sistema de tutoría de UACloud. Para justificar una falta puntual, envía al profesor el justificante por una tutoría de UACloud. Cada falta no justificada por encima de las permitidas, restará una parte de la nota final de prácticas.
