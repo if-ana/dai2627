@@ -117,8 +117,9 @@ Novedades
 Actividades previas a las clases
 --------------------------------
 
+
+ - Antes de la clase del 15/09/2026: estudia los vídeos y practica con la actividad :ref:`«Selectores y propiedades del lenguaje CSS» <label-intro-css>` (duración total de los vídeos: unos 35 minutos; unos 25 a velocidad 1,5x). A continuación, contesta el `test sobre la introducción a CSS`_ (plazo límite: 13/09/2026, 23:59 horas). Utiliza tu cuenta de ``gcloud.ua.es`` para acceder a todos estos materiales. Si tu ancho de banda te lo permite, puedes elegir explícitamente una resolución de 1080 píxeles para el vídeo.
 ..
- - Antes de la clase del 22/09/2026: estudia los vídeos y practica con la actividad :ref:`«Selectores y propiedades del lenguaje CSS» <label-intro-css>` (duración total de los vídeos: unos 35 minutos; unos 25 a velocidad 1,5x). A continuación, contesta el `test sobre la introducción a CSS`_ (plazo límite: 20/09/2026, 23:59 horas). Utiliza tu cuenta de ``gcloud.ua.es`` para acceder a todos estos materiales. Si tu ancho de banda te lo permite, puedes elegir explícitamente una resolución de 1080 píxeles para el vídeo.
  - Antes de la clase del 29/09/2026: lee detenidamente y practica con lo discutido en las actividades siguientes: ":ref:`label-inline-css`", ":ref:`label-caja-css`" y ":ref:`label-posicionamiento-css`". A continuación, contesta el `test sobre el modelo de caja de CSS`_ (plazo límite: 27/09/2026, 23:59 horas). Recuerda utilizar tu cuenta de ``gcloud.ua.es`` para acceder a los materiales que requieran autenticación.
  - Antes de la clase del 06/10/2026: estudia los vídeos de la actividad ":ref:`label-intro-js`" (duración total de los vídeos: unos 55 minutos; unos 40 a 1,5x). A continuación, contesta el `test sobre la introducción a JavaScript`_ (plazo límite: 04/10/2026, 23:59 horas). Utiliza tu cuenta de ``gcloud.ua.es`` para acceder a todos los materiales que requieran autenticación.
  - Antes de la clase del 13/10/2026: estudia el código y los vídeos de la actividad ":ref:`label-app-web-sencilla`" (duración total de los vídeos: unos 50 minutos; unos 35 a 1,5x). A continuación, contesta el `test sobre la aplicación web sencilla con JavaScript`_ (plazo límite: 12/10/2026, 23:59 horas).
@@ -148,7 +149,7 @@ Actividades previas a las clases
 .. _`Selectores y propiedades de CSS (parte 1)`: https://drive.google.com/file/d/1i3s-LKeMsCam5-kmD65G-BMGWsJjmaA8/view?usp=sharing
 .. _`Selectores y propiedades de CSS (parte 2)`: https://drive.google.com/file/d/1XpPhulZBzbsS-ODtjuwZUzDNznKVphj6/view?usp=sharing
 .. _`Selectores y propiedades de CSS (parte 3)`: https://drive.google.com/file/d/1PhItC2tHklcq82pHclsrt1sG5eD8PmNl/view?usp=sharing
-.. _`test sobre la introducción a CSS`: https://docs.google.com/forms/d/e/1FAIpQLScssvMNWeQk9L1792_Y_htnsFhz8gbBv0Of34ZGWVAlhBApvg/viewform?usp=header
+.. _`test sobre la introducción a CSS`: https://docs.google.com/forms/d/e/1FAIpQLSdipIjaNOxt5YJk7sukB8eux2aa5DVFyalUkzuRsJbVIjYiHg/viewform?usp=sharing&ouid=110960222707937305861
 .. _`test sobre el modelo de caja de CSS`: https://forms.gle/Qi2QhKauYzMGmpZg6
 
 
