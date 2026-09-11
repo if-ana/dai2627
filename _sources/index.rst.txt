@@ -150,7 +150,7 @@ Actividades previas a las clases
 .. _`Selectores y propiedades de CSS (parte 2)`: https://drive.google.com/file/d/1XpPhulZBzbsS-ODtjuwZUzDNznKVphj6/view?usp=sharing
 .. _`Selectores y propiedades de CSS (parte 3)`: https://drive.google.com/file/d/1PhItC2tHklcq82pHclsrt1sG5eD8PmNl/view?usp=sharing
 .. _`test sobre la introducción a CSS`: https://docs.google.com/forms/d/e/1FAIpQLSdipIjaNOxt5YJk7sukB8eux2aa5DVFyalUkzuRsJbVIjYiHg/viewform?usp=sharing&ouid=110960222707937305861
-.. _`test sobre el modelo de caja de CSS`: https://forms.gle/Qi2QhKauYzMGmpZg6
+.. _`test sobre el modelo de caja de CSS`: https://docs.google.com/forms/d/e/1FAIpQLSfiIJsKftqPlUOJTK9XqnTLK_1vzkM3Yl-M_Kg5ecv3EVvbXQ/viewform?usp=sharing&ouid=110960222707937305861
 
 
 
