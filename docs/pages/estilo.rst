@@ -33,7 +33,7 @@ Selectores y propiedades del lenguaje CSS
 
   .. _`parte 1`: https://drive.google.com/file/d/14BZ4hXCI-6NAldK88Ut6Hp7CPzhLzKp7/view?usp=sharing
   .. _`parte 2`: https://drive.google.com/file/d/1MBSM_HerhQRZ-zMX8AxiahNUAs9fbEXE/view?usp=sharing
-  .. _`parte 3`: https://drive.google.com/file/d/1MBSM_HerhQRZ-zMX8AxiahNUAs9fbEXE/view?usp=sharing
+  .. _`parte 3`: https://drive.google.com/file/d/1QRXU_l2qth7PU5FGGY8CrXbip4zXnARt/view?usp=sharing
 
 Como se estudia en los vídeos anteriores, los selectores de CSS permiten identificar uno o más elementos de un documento HTML. Aunque en este tema vamos a usar los selectores como parte de las reglas de CSS, esta notación tiene otros usos que veremos más adelante (como identificar los nodos del árbol DOM sobre los que realizar ciertas operaciones en JavaScript). La sintaxis de los selectores puede ser más elaborada para definir criterios de selección más avanzados. Estudiando algunas de las propiedades de CSS (hay muchas más), has visto también cómo especificar medidas (por ejemplo, el tamaño de la letra), colores o tipos de letra en CSS.
 
