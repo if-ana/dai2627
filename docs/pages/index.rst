@@ -37,8 +37,8 @@ Novedades
     * - 01 sep
       - Ya está publicado el enunciado de la primera práctica. De hecho, están publicados los enunciados de todas las prácticas. Las clases de teoría comienzan el día 8 de septiembre.
     * - 15/09
-      - Tenéis disponibles las actividades previas para el 22/09. En cuanto a los archivos de selectores y ejercicios de especificidad, los tenéis en actividades prevías de la semana pasada.
-En la próxima clase terminamos el tema CSS, así que podéis ver todos los contenidos que nos faltan.
+      - Tenéis disponibles las actividades previas para el 22/09. En cuanto a los archivos de selectores y ejercicios de especificidad vistos en clase, los tenéis en actividades prevías de la semana pasada.
+En la próxima clase terminamos el tema CSS, así que podéis ver en casa todos los contenidos que nos faltan.
  
 ..   
     * - 06 sep
