@@ -36,6 +36,10 @@ Novedades
 
     * - 01 sep
       - Ya está publicado el enunciado de la primera práctica. De hecho, están publicados los enunciados de todas las prácticas. Las clases de teoría comienzan el día 8 de septiembre.
+    * - 15/09
+      - Tenéis disponibles las actividades previas para el 22/09. En cuanto a los archivos de selectores y ejercicios de especificidad, los tenéis en actividades prevías de la semana pasada.
+En la próxima clase terminamos el tema CSS, así que podéis ver todos los contenidos que nos faltan.
+ 
 ..   
     * - 06 sep
       - Debido a las obras que se están realizando en la EPS IV, no habrá clase de prácticas como tal hasta que el laboratorio de ordenadores que tenemos asignado esté disponible. Al final de las clases de teoría se darán indicaciones o recomendaciones y se programarán tutorías colectivas para resolver las dudas que vayan surgiendo (además de las tutorías tanto escritas como online o presenciales que podéis solicitar).
@@ -118,7 +122,7 @@ Actividades previas a las clases
 --------------------------------
 
 
- - Antes de la clase del 15/09/2026: estudia los vídeos y practica con la actividad :ref:`«Selectores y propiedades del lenguaje CSS» <label-intro-css>` (duración total de los vídeos: unos 35 minutos; unos 25 a velocidad 1,5x). A continuación, contesta el `test sobre la introducción a CSS`_ (plazo límite: 13/09/2026, 23:59 horas). Utiliza tu cuenta de ``gcloud.ua.es`` para acceder a todos estos materiales. Si tu ancho de banda te lo permite, puedes elegir explícitamente una resolución de 1080 píxeles para el vídeo.
+ - Antes de la clase del 15/09/2026: estudia los vídeos y practica con la actividad :ref:`«Selectores y propiedades del lenguaje CSS» <label-intro-css>` (duración total de los vídeos: unos 35 minutos; unos 25 a velocidad 1,5x), `documento selectores`_ y practica con `ejercicios de especificidad`_. A continuación, contesta el `test sobre la introducción a CSS`_ (plazo límite: 13/09/2026, 23:59 horas). Utiliza tu cuenta de ``gcloud.ua.es`` para acceder a todos estos materiales. Si tu ancho de banda te lo permite, puedes elegir explícitamente una resolución de 1080 píxeles para el vídeo.
 
  - Antes de la clase del 22/09/2026: lee detenidamente y practica con lo discutido en las actividades siguientes: ":ref:`label-inline-css`", ":ref:`label-caja-css`" y ":ref:`label-posicionamiento-css`". A continuación, contesta el `test sobre el modelo de caja de CSS`_ (plazo límite: 20/09/2026, 23:59 horas). Recuerda utilizar tu cuenta de ``gcloud.ua.es`` para acceder a los materiales que requieran autenticación.
 ..
@@ -152,6 +156,8 @@ Actividades previas a las clases
 .. _`Selectores y propiedades de CSS (parte 3)`: https://drive.google.com/file/d/1PhItC2tHklcq82pHclsrt1sG5eD8PmNl/view?usp=sharing
 .. _`test sobre la introducción a CSS`: https://docs.google.com/forms/d/e/1FAIpQLSdipIjaNOxt5YJk7sukB8eux2aa5DVFyalUkzuRsJbVIjYiHg/viewform?usp=sharing&ouid=110960222707937305861
 .. _`test sobre el modelo de caja de CSS`: https://forms.gle/PNmsNUSdrYMUsj5d9
+.. _`documento selectores`: https://drive.google.com/file/d/1_Nck-ugfde6ARQG5PVB28qJc0WRoCdF_/view?usp=sharing
+.. _`ejercicios de especificidad`: https://drive.google.com/file/d/17OHXNvqdM54KCgKVPnSjdW1Ez1h-7mAH/view?usp=sharing
 
 
 
