@@ -36,9 +36,9 @@ Novedades
 
     * - 01 sep
       - Ya está publicado el enunciado de la primera práctica. De hecho, están publicados los enunciados de todas las prácticas. Las clases de teoría comienzan el día 8 de septiembre.
-    * - 15/09
+    * - 15 sep
       - Tenéis disponibles las actividades previas para el 22/09. En cuanto a los archivos de selectores y ejercicios de especificidad vistos en clase, los tenéis en actividades prevías de la semana pasada. En la próxima clase terminamos el tema CSS, así que podéis ver en casa todos los contenidos que nos faltan.
-    * - 17/09
+    * - 17 sep
       - Ya tenéis disponible mi correo electrónico: `ana.marcof@ua.es <mailto:ana.marcof@ua.es>`_. A partir de ahora, podéis utilizar esta cuenta para cualquier comunicación relacionada con la asignatura. Por favor, no enviéis los correos al otro profesor. La entrega de la práctica estará disponible a partir del próximo martes, para quienes ya quieran entregarla.
  
 ..   
