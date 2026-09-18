@@ -42,9 +42,9 @@ Este es el calendario de cada uno de los entregables de la asignatura. No se adm
 Instrucciones de entrega de las prácticas
 -----------------------------------------
 
-Realiza tu entrega en un único fichero comprimido a través del `servidor web del Departamento`_ antes de las 23.59 del día de la fecha límite. Recuerda que no se admitirán entregas fuera de plazo.
+Realiza tu entrega en un único fichero comprimido a través del `Moddle`_ de la UAClaud antes de las 23.59 del día de la fecha límite. Recuerda que no se admitirán entregas fuera de plazo.
 
-.. _`servidor web del Departamento`: https://pracdlsi.dlsi.ua.es/index.cgi?id=val
+.. _`Moddle`: https://cvnet.cpd.ua.es/moodleua
 
 
 Práctica 1: una página web con HTML y CSS 🖥️
