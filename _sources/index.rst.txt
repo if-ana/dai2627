@@ -152,7 +152,7 @@ Actividades previas a las clases
 .. _`test sobre prototipos y clausuras en JavaScript`: https://forms.gle/7bXdkzS7CZNLYbSg8
 .. _`test sobre la API de los navegadores para JavaScript`: https://forms.gle/iFAe1njVwnsmydaV6
 .. _`test sobre la aplicación web sencilla con JavaScript`: https://forms.gle/pALFapPVDKnoY2WU6
-.. _`test sobre la introducción a JavaScript`: https://forms.gle/tvT5nyXyMbm19kaF7
+.. _`test sobre la introducción a JavaScript`: https://docs.google.com/forms/d/e/1FAIpQLSeklIYLNtiKaSP_3XgVIFFPEG6ft7G_IVTTGZOf68Q4JcW32Q/viewform?usp=sharing&ouid=110960222707937305861
 .. _`Selectores y propiedades de CSS (parte 1)`: https://drive.google.com/file/d/1i3s-LKeMsCam5-kmD65G-BMGWsJjmaA8/view?usp=sharing
 .. _`Selectores y propiedades de CSS (parte 2)`: https://drive.google.com/file/d/1XpPhulZBzbsS-ODtjuwZUzDNznKVphj6/view?usp=sharing
 .. _`Selectores y propiedades de CSS (parte 3)`: https://drive.google.com/file/d/1PhItC2tHklcq82pHclsrt1sG5eD8PmNl/view?usp=sharing
