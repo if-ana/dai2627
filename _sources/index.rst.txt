@@ -125,9 +125,10 @@ Actividades previas a las clases
 
  - Antes de la clase del 15/09/2026: estudia los vídeos y practica con la actividad :ref:`«Selectores y propiedades del lenguaje CSS» <label-intro-css>` (duración total de los vídeos: unos 35 minutos; unos 25 a velocidad 1,5x), `documento selectores`_ y practica con `ejercicios de especificidad`_. A continuación, contesta el `test sobre la introducción a CSS`_ (plazo límite: 13/09/2026, 23:59 horas). Utiliza tu cuenta de ``gcloud.ua.es`` para acceder a todos estos materiales. Si tu ancho de banda te lo permite, puedes elegir explícitamente una resolución de 1080 píxeles para el vídeo.
 
- - Antes de la clase del 22/09/2026: lee detenidamente y practica con lo discutido en las actividades siguientes: ":ref:`label-inline-css`", ":ref:`label-caja-css`" y ":ref:`label-posicionamiento-css`". A continuación, contesta el `test sobre el modelo de caja de CSS`_ (plazo límite: 20/09/2026, 23:59 horas). Recuerda utilizar tu cuenta de ``gcloud.ua.es`` para acceder a los materiales que requieran autenticación.
+ - Antes de la clase del 22/09/2026: lee detenidamente y practica con lo discutido en las actividades siguientes: ":ref:`label-inline-css`", ":ref:`label-caja-css`" y ":ref:`label-posicionamiento-css`". A continuación, contesta el `test sobre el modelo de caja de CSS`_ (plazo límite: 20/09/2026, 23:59 horas). Recuerda utilizar tu cuenta de ``gcloud.ua.es`` para acceder a los materiales que requieran autenticación. Aquí puedes acceder a los materiales `contenedores`_, `transiciones-animaciones`_ y `responsive`_ de la clase del 22/08/26
+
+ - Antes de la clase del 29/09/2026: estudia los vídeos de la actividad ":ref:`label-intro-js`" (duración total de los vídeos: unos 55 minutos; unos 40 a 1,5x). A continuación, contesta el `test sobre la introducción a JavaScript`_ (plazo límite: 27/09/2026, 23:59 horas). Utiliza tu cuenta de ``gcloud.ua.es`` para acceder a todos los materiales que requieran autenticación.
 ..
- - Antes de la clase del 06/10/2026: estudia los vídeos de la actividad ":ref:`label-intro-js`" (duración total de los vídeos: unos 55 minutos; unos 40 a 1,5x). A continuación, contesta el `test sobre la introducción a JavaScript`_ (plazo límite: 04/10/2026, 23:59 horas). Utiliza tu cuenta de ``gcloud.ua.es`` para acceder a todos los materiales que requieran autenticación.
  - Antes de la clase del 13/10/2026: estudia el código y los vídeos de la actividad ":ref:`label-app-web-sencilla`" (duración total de los vídeos: unos 50 minutos; unos 35 a 1,5x). A continuación, contesta el `test sobre la aplicación web sencilla con JavaScript`_ (plazo límite: 12/10/2026, 23:59 horas).
  - Antes de la clase del 20/10/2026: estudia los vídeos de la actividad ":ref:`label-api-web-js`" (duración total de los vídeos: unos 55 minutos; unos 40 a 1,5x). A continuación, contesta el `test sobre la API de los navegadores para JavaScript`_ (plazo límite: 18/10/2026, 23:59 horas).
  - Antes de la clase del 27/10/2026: realiza la actividad ":ref:`label-js-objetos`" (en esta actividad tienes que leer un texto con un tiempo estimado de lectura de unos 80 minutos); después, lee y practica con lo que se discute en la actividad ":ref:`label-js-clausuras`" (tiempo estimado de lectura: 15 minutos). A continuación contesta el `test sobre prototipos y clausuras en JavaScript`_ (plazo límite: 25/10/2026, 23:59 horas). 
@@ -159,6 +160,9 @@ Actividades previas a las clases
 .. _`test sobre el modelo de caja de CSS`: https://forms.gle/PNmsNUSdrYMUsj5d9
 .. _`documento selectores`: https://drive.google.com/file/d/1_Nck-ugfde6ARQG5PVB28qJc0WRoCdF_/view?usp=sharing
 .. _`ejercicios de especificidad`: https://drive.google.com/file/d/17OHXNvqdM54KCgKVPnSjdW1Ez1h-7mAH/view?usp=sharing
+.. _`contenedores`_: https://drive.google.com/file/d/1B774ebawO01uxzmvGv7sHbICV80IdpHq/view?usp=sharing
+.. _`transiciones-animaciones`_: https://drive.google.com/file/d/1U9YBhEXAtyOXPWwS6B_qP1-VjK6nhaBq/view?usp=sharing
+.. _`responsive`_: https://drive.google.com/file/d/1V33tfFOfYCvqqTiwcnX-vzva8C3HnCr3/view?usp=sharing
 
 
 
