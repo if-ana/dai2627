@@ -160,9 +160,9 @@ Actividades previas a las clases
 .. _`test sobre el modelo de caja de CSS`: https://forms.gle/PNmsNUSdrYMUsj5d9
 .. _`documento selectores`: https://drive.google.com/file/d/1_Nck-ugfde6ARQG5PVB28qJc0WRoCdF_/view?usp=sharing
 .. _`ejercicios de especificidad`: https://drive.google.com/file/d/17OHXNvqdM54KCgKVPnSjdW1Ez1h-7mAH/view?usp=sharing
-.. _`contenedores`_: https://drive.google.com/file/d/1B774ebawO01uxzmvGv7sHbICV80IdpHq/view?usp=sharing
-.. _`transiciones-animaciones`_: https://drive.google.com/file/d/1U9YBhEXAtyOXPWwS6B_qP1-VjK6nhaBq/view?usp=sharing
-.. _`responsive`_: https://drive.google.com/file/d/1V33tfFOfYCvqqTiwcnX-vzva8C3HnCr3/view?usp=sharing
+.. _`contenedores`: https://drive.google.com/file/d/1B774ebawO01uxzmvGv7sHbICV80IdpHq/view?usp=sharing
+.. _`transiciones-animaciones`: https://drive.google.com/file/d/1U9YBhEXAtyOXPWwS6B_qP1-VjK6nhaBq/view?usp=sharing
+.. _`responsive`: https://drive.google.com/file/d/1V33tfFOfYCvqqTiwcnX-vzva8C3HnCr3/view?usp=sharing
 
 
 
