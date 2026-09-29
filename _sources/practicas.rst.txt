@@ -437,7 +437,7 @@ Entrega de la práctica
 
 Asegúrate de que tanto tus ficheros iniciales como cualquier estado posterior del DOM se validan correctamente con los validadores HTML5 y CSS del W3C. Además, usa Chrome DevTools para comprobar que el estilo aplicado en cada punto del documento es correcto y para depurar tu código en JavaScript. Finalmente, asegúrate de que tu implementación cumple con todas las especificaciones de este enunciado.
 
-Recuerda mantener tu nombre de usuario de la universidad en el pie del documento. Realiza tu entrega en un único fichero comprimido llamado ``p2-dai.zip`` a través del servidor web del Departamento. El archivo comprimido contendrá directamente (sin ninguna carpeta contenedora) el fichero ``index.html``, una carpeta ``css`` con el fichero ``normal.css``, una carpeta ``img`` con las imágenes de Londres y París, y una carpeta ``js`` con el código en JavaScript.
+Recuerda mantener tu nombre de usuario de la universidad en el pie del documento. Realiza tu entrega en un único fichero comprimido llamado ``p2-dai.zip`` a través de `Moddle`_. El archivo comprimido contendrá directamente (sin ninguna carpeta contenedora) el fichero ``index.html``, una carpeta ``css`` con el fichero ``normal.css``, una carpeta ``img`` con las imágenes de Londres y París, y una carpeta ``js`` con el código en JavaScript.
 
 Por último, coloca en algún punto del pie de la página un fragmento de HTML como ``<span id="tiempo">[10 horas]</span>`` donde has de sustituir el 10 por el número de horas aproximadas que te haya llevado hacer esta práctica.
 
