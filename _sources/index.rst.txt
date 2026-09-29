@@ -127,7 +127,7 @@ Actividades previas a las clases
 
  - Antes de la clase del 22/09/2026: lee detenidamente y practica con lo discutido en las actividades siguientes: ":ref:`label-inline-css`", ":ref:`label-caja-css`" y ":ref:`label-posicionamiento-css`". A continuación, contesta el `test sobre el modelo de caja de CSS`_ (plazo límite: 20/09/2026, 23:59 horas). Recuerda utilizar tu cuenta de ``gcloud.ua.es`` para acceder a los materiales que requieran autenticación. Aquí puedes acceder a los materiales `contenedores`_, `transiciones-animaciones`_ y `responsive`_ de la clase del 22/08/26
 
- - Antes de la clase del 29/09/2026: estudia los vídeos de la actividad ":ref:`label-intro-js`" (duración total de los vídeos: unos 55 minutos; unos 40 a 1,5x). A continuación, contesta el `test sobre la introducción a JavaScript`_ (plazo límite: 27/09/2026, 23:59 horas). Utiliza tu cuenta de ``gcloud.ua.es`` para acceder a todos los materiales que requieran autenticación.
+ - Antes de la clase del 29/09/2026: estudia los vídeos de la actividad ":ref:`label-intro-js`" (duración total de los vídeos: unos 55 minutos; unos 40 a 1,5x). A continuación, contesta el `test sobre la introducción a JavaScript`_ (plazo límite: 27/09/2026, 23:59 horas). Utiliza tu cuenta de ``gcloud.ua.es`` para acceder a todos los materiales que requieran autenticación. Aquí puedes acceder al archivo que muestra la animación del fondo como un `arcoiris`_ visto en la clase del 29/09/26.
 
  - Antes de la clase del 06/10/2026: estudia el código y los vídeos de la actividad ":ref:`label-app-web-sencilla`" (duración total de los vídeos: unos 50 minutos; unos 35 a 1,5x). A continuación, contesta el `test sobre la aplicación web sencilla con JavaScript`_ (plazo límite: 04/10/2026, 23:59 horas).
 
@@ -165,6 +165,7 @@ Actividades previas a las clases
 .. _`contenedores`: https://drive.google.com/file/d/1B774ebawO01uxzmvGv7sHbICV80IdpHq/view?usp=sharing
 .. _`transiciones-animaciones`: https://drive.google.com/file/d/1U9YBhEXAtyOXPWwS6B_qP1-VjK6nhaBq/view?usp=sharing
 .. _`responsive`: https://drive.google.com/file/d/1V33tfFOfYCvqqTiwcnX-vzva8C3HnCr3/view?usp=sharing
+.. _`arcoiris`: https://drive.google.com/file/d/15-CqjoyvpS_fCtaNA-FPM3a7u7UnxpUA/view?usp=sharing
 
 
 
