@@ -35,7 +35,7 @@ Novedades
 
     * - 02 oct
       - De cara a las próximas clases y en algunos temas posteriores de la asignatura usaremos los servicios en la nube de Google Cloud Platform. Para poder hacerlo, tienes que darte de alta con tu cuenta de gcloud a través de un programa de créditos educativos. En primer lugar, asegúrate de que tienes habilitada la cuenta de correo electrónico que la universidad te asigna con `dominio gcloud.ua.es`_ entra para ello en la opción :guilabel:`Servicios externos` de UACloud. En los :guilabel:`anuncios` de UACloud encontraréis información sobre el procedimiento para solicitar el cupón de Google Cloud. 
-       * - 17 sep
+    * - 17 sep
       - Ya tenéis disponible mi correo electrónico: `ana.marcof@ua.es <mailto:ana.marcof@ua.es>`_. A partir de ahora, podéis utilizar esta cuenta para cualquier comunicación relacionada con la asignatura. Por favor, no enviéis los correos al otro profesor. Las entregas de las prácticas se harán a través de la plataforma `moodle <https://cvnet.cpd.ua.es/moodleua>`_ de la UAClaud.   
     * - 15 sep
       - Tenéis disponibles las actividades previas para el 22/09. En cuanto a los archivos de selectores y ejercicios de especificidad vistos en clase, los tenéis en actividades prevías de la semana pasada. En la próxima clase terminamos el tema CSS, así que podéis ver en casa todos los contenidos que nos faltan.
