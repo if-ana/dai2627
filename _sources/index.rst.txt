@@ -34,7 +34,7 @@ Novedades
     :class: tablita
 
     * - 02 oct
-      - De cara a las próximas clases y práctica 4, asegúrate de que tienes habilitada la cuenta de correo electrónico que la universidad te asigna con `dominio gcloud.ua.es`_; entra para ello en la opción :guilabel:`Servicios externos` de UACloud. En los :guilabel:`anuncios` de UACloud encontraréis información sobre el procedimiento para solicitar el cupón de Google Cloud. No pulséis al enlace para canjear el cupón sin antes haber habilitado la cuenta de @gcloud.ua.es.
+      - De cara a las próximas clases y práctica 4, asegúrate de que tienes habilitada la cuenta de correo electrónico que la universidad te asigna con `dominio gcloud.ua.es`_ entra para ello en la opción :guilabel:`Servicios externos` de UACloud. En los :guilabel:`anuncios` de UACloud encontraréis información sobre el procedimiento para solicitar el cupón de Google Cloud. No pulséis al enlace para canjear el cupón sin antes haber habilitado la cuenta de @gcloud.ua.es.
     * - 17 sep
       - Ya tenéis disponible mi correo electrónico: `ana.marcof@ua.es <mailto:ana.marcof@ua.es>`_. A partir de ahora, podéis utilizar esta cuenta para cualquier comunicación relacionada con la asignatura. Por favor, no enviéis los correos al otro profesor. Las entregas de las prácticas se harán a través de la plataforma `moodle <https://cvnet.cpd.ua.es/moodleua>`_ de la UAClaud.   
     * - 15 sep
