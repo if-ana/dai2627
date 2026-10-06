@@ -133,7 +133,7 @@ Actividades previas a las clases
 
  - Antes de la clase del 29/09/2026: estudia los vídeos de la actividad ":ref:`label-intro-js`" (duración total de los vídeos: unos 55 minutos; unos 40 a 1,5x). A continuación, contesta el `test sobre la introducción a JavaScript`_ (plazo límite: 27/09/2026, 23:59 horas). Utiliza tu cuenta de ``gcloud.ua.es`` para acceder a todos los materiales que requieran autenticación. Aquí puedes acceder al archivo que muestra la animación del fondo de una página como un `arcoiris`_ visto en la clase del 29/09/26.
 
- - Antes de la clase del 06/10/2026: estudia el código y los vídeos de la actividad ":ref:`label-app-web-sencilla`" (duración total de los vídeos: unos 50 minutos; unos 35 a 1,5x). A continuación, contesta el `test sobre la aplicación web sencilla con JavaScript`_ (plazo límite: 04/10/2026, 23:59 horas).
+ - Antes de la clase del 06/10/2026: estudia el código y los vídeos de la actividad ":ref:`label-app-web-sencilla`" (duración total de los vídeos: unos 50 minutos; unos 35 a 1,5x). A continuación, contesta el `test sobre la aplicación web sencilla con JavaScript`_ (plazo límite: 04/10/2026, 23:59 horas). Aquí puedes acceder a ampliación de materiales `manipulación DOM`_, `eventos`_ vistos en clase prácticas. También puedes acceder al pdf visto en clase con otros conceptos importantes sobre el ejemplo de la `web sencilla`_ a tener en cuenta.
 
 ..
  - Antes de la clase del 20/10/2026: estudia los vídeos de la actividad ":ref:`label-api-web-js`" (duración total de los vídeos: unos 55 minutos; unos 40 a 1,5x). A continuación, contesta el `test sobre la API de los navegadores para JavaScript`_ (plazo límite: 18/10/2026, 23:59 horas).
@@ -170,6 +170,9 @@ Actividades previas a las clases
 .. _`transiciones-animaciones`: https://drive.google.com/file/d/1U9YBhEXAtyOXPWwS6B_qP1-VjK6nhaBq/view?usp=sharing
 .. _`responsive`: https://drive.google.com/file/d/1V33tfFOfYCvqqTiwcnX-vzva8C3HnCr3/view?usp=sharing
 .. _`arcoiris`: https://drive.google.com/file/d/15-CqjoyvpS_fCtaNA-FPM3a7u7UnxpUA/view?usp=sharing
+.. _`manipulación DOM`: https://drive.google.com/file/d/1LbZVCw8hh1JpezxRX23h1--dpImcFWns/view?usp=sharing 
+.. _`eventos`_:https://drive.google.com/file/d/1LbZVCw8hh1JpezxRX23h1--dpImcFWns/view?usp=sharing
+.. _`web sencilla`_: https://drive.google.com/file/d/1RoohRXuE80rW7XWiA2Bv1rULklWHOdyT/view?usp=sharing
 
 
 
