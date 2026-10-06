@@ -171,7 +171,7 @@ Actividades previas a las clases
 .. _`responsive`: https://drive.google.com/file/d/1V33tfFOfYCvqqTiwcnX-vzva8C3HnCr3/view?usp=sharing
 .. _`arcoiris`: https://drive.google.com/file/d/15-CqjoyvpS_fCtaNA-FPM3a7u7UnxpUA/view?usp=sharing
 .. _`manipulación DOM`: https://drive.google.com/file/d/1LbZVCw8hh1JpezxRX23h1--dpImcFWns/view?usp=sharing 
-.. _`eventos`_:https://drive.google.com/file/d/1LbZVCw8hh1JpezxRX23h1--dpImcFWns/view?usp=sharing
+.. _`eventos`_: https://drive.google.com/file/d/1LiLxS1nMr9TJYfwbR36jenHcN-l3bPeE/view?usp=sharing
 .. _`web sencilla`_: https://drive.google.com/file/d/1RoohRXuE80rW7XWiA2Bv1rULklWHOdyT/view?usp=sharing
 
 
