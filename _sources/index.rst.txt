@@ -136,9 +136,10 @@ Actividades previas a las clases
  - Antes de la clase del 06/10/2026: estudia el código y los vídeos de la actividad ":ref:`label-app-web-sencilla`" (duración total de los vídeos: unos 50 minutos; unos 35 a 1,5x). A continuación, contesta el `test sobre la aplicación web sencilla con JavaScript`_ (plazo límite: 04/10/2026, 23:59 horas). Aquí puedes acceder a ampliación de materiales `manipulación DOM`_ y `eventos`_ vistos en clase prácticas. También puedes acceder al pdf visto en clase con otros conceptos importantes sobre el ejemplo de la `web sencilla`_ a tener en cuenta.
 
  - Antes de la clase del 13/10/2026: estudia los vídeos de la actividad ":ref:`label-api-web-js`" (duración total de los vídeos: unos 55 minutos; unos 40 a 1,5x). A continuación, contesta el `test sobre la API de los navegadores para JavaScript`_ (plazo límite: 11/10/2026, 23:59 horas).
+
+ - Antes de la clase del 20/10/2026: realiza la actividad ":ref:`label-js-objetos`" (en esta actividad tienes que leer un texto con un tiempo estimado de lectura de unos 80 minutos); después, lee y practica con lo que se discute en la actividad ":ref:`label-js-clausuras`" (tiempo estimado de lectura: 15 minutos). A continuación contesta el `test sobre prototipos y clausuras en JavaScript`_ (plazo límite: 18/10/2026, 23:59 horas). 
 ..
- - Antes de la clase del 20/10/2026: estudia los vídeos de la actividad ":ref:`label-api-web-js`" (duración total de los vídeos: unos 55 minutos; unos 40 a 1,5x). A continuación, contesta el `test sobre la API de los navegadores para JavaScript`_ (plazo límite: 18/10/2026, 23:59 horas).
- - Antes de la clase del 27/10/2026: realiza la actividad ":ref:`label-js-objetos`" (en esta actividad tienes que leer un texto con un tiempo estimado de lectura de unos 80 minutos); después, lee y practica con lo que se discute en la actividad ":ref:`label-js-clausuras`" (tiempo estimado de lectura: 15 minutos). A continuación contesta el `test sobre prototipos y clausuras en JavaScript`_ (plazo límite: 25/10/2026, 23:59 horas). 
+  
  - Antes de la clase del 03/11/2026: realiza las actividades ":ref:`label-servicios-http`", ":ref:`label-servicios-promesas`", ":ref:`label-servicios-xhr`" y ":ref:`label-servicios-fetch`". Todas las actividades menos la segunda consisten principalmente en el estudio de una serie de vídeos (duración total de los vídeos: 50 minutos; unos 35 a 1,5x). Para la la segunda actividad, sin embargo, tienes que leer su contenido (tiempo estimado de lectura: 30 minutos). A continuación contesta el `test sobre acceso a servicios web`_ (plazo límite: 01/11/2026, 23:59 horas).
  - Antes de la clase del 10/11/2026: lee detenidamente y practica con lo discutido en las actividades siguientes: ":ref:`label-intro-comp`", ":ref:`label-ejemplo-comp`" y ":ref:`label-avanzado-comp`". A continuación, contesta el `test sobre componentes web`_ (plazo límite: 08/11/2026, 23:59 horas).
  - Antes de la clase del 17/11/2026: lee detenidamente y practica con lo discutido en las actividades siguientes: ":ref:`label-curl`", ":ref:`label-cliente-rest`" y ":ref:`label-servidor-rest`"; la última incluye un vídeo con una traza de la aplicación del carrito (duración: 28 minutos; unos 20 a 1,5x). Para poder practicar con el código de esas actividades, tendrás que configurar tu entorno de trabajo como se indica en la actividad ":ref:`label-local`". A continuación, contesta el `test sobre implementación de servicios web`_ (plazo límite: 15/11/2026, 23:59 horas).
@@ -156,7 +157,7 @@ Actividades previas a las clases
 .. _`test sobre implementación de servicios web`: https://forms.gle/RK9hpjBs4CLthgpJA
 .. _`test sobre componentes web`: https://forms.gle/SDgoJgieFvfVfDug8
 .. _`test sobre acceso a servicios web`: https://forms.gle/sZ3ZEtoYTpk5Fh5QA
-.. _`test sobre prototipos y clausuras en JavaScript`: https://forms.gle/7bXdkzS7CZNLYbSg8
+.. _`test sobre prototipos y clausuras en JavaScript`: https://forms.gle/ncr61mWz2FK3yuaN8
 .. _`test sobre la API de los navegadores para JavaScript`: https://forms.gle/3bAvwA77ufzTUaWy5
 .. _`test sobre la aplicación web sencilla con JavaScript`: https://forms.gle/XQ1KMpNvhPQEZ24R9
 .. _`test sobre la introducción a JavaScript`: https://forms.gle/z48veR4y2c7swQ9J8
