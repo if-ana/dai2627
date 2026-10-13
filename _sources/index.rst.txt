@@ -135,7 +135,7 @@ Actividades previas a las clases
 
  - Antes de la clase del 06/10/2026: estudia el código y los vídeos de la actividad ":ref:`label-app-web-sencilla`" (duración total de los vídeos: unos 50 minutos; unos 35 a 1,5x). A continuación, contesta el `test sobre la aplicación web sencilla con JavaScript`_ (plazo límite: 04/10/2026, 23:59 horas). Aquí puedes acceder a ampliación de materiales `manipulación DOM`_ y `eventos`_ vistos en clase prácticas. También puedes acceder al pdf visto en clase con otros conceptos importantes sobre el ejemplo de la `web sencilla`_ a tener en cuenta.
 
- - Antes de la clase del 13/10/2026: estudia los vídeos de la actividad ":ref:`label-api-web-js`" (duración total de los vídeos: unos 55 minutos; unos 40 a 1,5x). A continuación, contesta el `test sobre la API de los navegadores para JavaScript`_ (plazo límite: 11/10/2026, 23:59 horas).
+ - Antes de la clase del 13/10/2026: estudia los vídeos de la actividad ":ref:`label-api-web-js`" (duración total de los vídeos: unos 55 minutos; unos 40 a 1,5x). A continuación, contesta el `test sobre la API de los navegadores para JavaScript`_ (plazo límite: 11/10/2026, 23:59 horas). Os comparto los archivos con las  `explicaciones varias`_ trabajados en clase, en los que profundizamos en las imágenes vectoriales con SVG y Canvas y reforzamos aquellos contenidos del test que os han generado más dudas.
 
  - Antes de la clase del 20/10/2026: realiza la actividad ":ref:`label-js-objetos`" (en esta actividad tienes que leer un texto con un tiempo estimado de lectura de unos 80 minutos); después, lee y practica con lo que se discute en la actividad ":ref:`label-js-clausuras`" (tiempo estimado de lectura: 15 minutos). A continuación contesta el `test sobre prototipos y clausuras en JavaScript`_ (plazo límite: 18/10/2026, 23:59 horas). 
 ..
@@ -174,6 +174,7 @@ Actividades previas a las clases
 .. _`manipulación DOM`: https://drive.google.com/file/d/1LbZVCw8hh1JpezxRX23h1--dpImcFWns/view?usp=sharing 
 .. _`eventos`: https://drive.google.com/file/d/1LiLxS1nMr9TJYfwbR36jenHcN-l3bPeE/view?usp=sharing
 .. _`web sencilla`: https://drive.google.com/file/d/1RoohRXuE80rW7XWiA2Bv1rULklWHOdyT/view?usp=sharing
+.. _`explicaciones varias`: https://drive.google.com/file/d/1TSIqU0SPCkoIWOd3ULVR-K3NLDXskDmP/view?usp=sharing
 
 
 
