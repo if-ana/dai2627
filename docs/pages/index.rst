@@ -35,7 +35,7 @@ Novedades
 
 
     * - 16 oct
-      - Ya tenéis disponibles en Moddle, la publicación de las notas de la práctica 1.
+      - Ya tenéis disponibles en Moddle la publicación de las notas de la práctica 1.
     * - 02 oct
       - De cara a las próximas clases y en algunos temas posteriores de la asignatura usaremos los servicios en la nube de Google Cloud Platform. Para poder hacerlo, tienes que darte de alta con tu cuenta de gcloud a través de un programa de créditos educativos. En primer lugar, asegúrate de que tienes habilitada la cuenta de correo electrónico que la universidad te asigna con `dominio gcloud.ua.es`_ entra para ello en la opción :guilabel:`Servicios Externos` de UACloud. En los :guilabel:`Anuncios` de UACloud encontraréis información sobre el procedimiento para solicitar el cupón de Google Cloud. 
     * - 17 sep
