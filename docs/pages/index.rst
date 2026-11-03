@@ -145,7 +145,7 @@ Actividades previas a las clases
  - Antes de la clase del 20/10/2026: realiza la actividad ":ref:`label-js-objetos`" (en esta actividad tienes que leer un texto con un tiempo estimado de lectura de unos 80 minutos); después, lee y practica con lo que se discute en la actividad ":ref:`label-js-clausuras`" (tiempo estimado de lectura: 15 minutos). A continuación contesta el `test sobre prototipos y clausuras en JavaScript`_ (plazo límite: 18/10/2026, 23:59 horas). Os dejo las explicaciones vistas en clase sobre `prototipos`_ y `ámbitos y clausuras`_
 
  - Antes de la clase del 27/10/2026: realiza las actividades ":ref:`label-servicios-http`", ":ref:`label-servicios-promesas`", ":ref:`label-servicios-xhr`" y ":ref:`label-servicios-fetch`". Todas las actividades menos la segunda consisten principalmente en el estudio de una serie de vídeos (duración total de los vídeos: 50 minutos; unos 35 a 1,5x). Para la la segunda actividad, sin embargo, tienes que leer su contenido (tiempo estimado de lectura: 30 minutos). A continuación contesta el `test sobre acceso a servicios web`_ (plazo límite: 25/10/2026, 23:59 horas). 
- - Antes de la clase del 03/11/2026: lee detenidamente y practica con lo discutido en las actividades siguientes: ":ref:`label-intro-comp`", ":ref:`label-ejemplo-comp`" y ":ref:`label-avanzado-comp`". A continuación, contesta el `test sobre componentes web`_ (plazo límite: 01/11/2026, 23:59 horas).
+ - Antes de la clase del 03/11/2026: lee detenidamente y practica con lo discutido en las actividades siguientes: ":ref:`label-intro-comp`", ":ref:`label-ejemplo-comp`" y ":ref:`label-avanzado-comp`". A continuación, contesta el `test sobre componentes web`_ (plazo límite: 11/01/2026, 23:59 horas). Os dejo las explicaciones vistas en clase de practicas `aclaracionesP3`_, y en clase de teoria `componentes web`_
 ..
  - Antes de la clase del 17/11/2026: lee detenidamente y practica con lo discutido en las actividades siguientes: ":ref:`label-curl`", ":ref:`label-cliente-rest`" y ":ref:`label-servidor-rest`"; la última incluye un vídeo con una traza de la aplicación del carrito (duración: 28 minutos; unos 20 a 1,5x). Para poder practicar con el código de esas actividades, tendrás que configurar tu entorno de trabajo como se indica en la actividad ":ref:`label-local`". A continuación, contesta el `test sobre implementación de servicios web`_ (plazo límite: 15/11/2026, 23:59 horas).
  - Antes de la clase del 24/11/2026: practica con lo que se comenta en las actividades siguientes: ":ref:`label-local`", ":ref:`label-prueba-carrito`", ":ref:`label-api-cambio`", ":ref:`label-gcp-deploy`" y ":ref:`label-cors`". A continuación, contesta el `test sobre despliegue de aplicaciones web`_ (plazo límite: 22/11/2026, 23:59 horas)
@@ -183,6 +183,9 @@ Actividades previas a las clases
 .. _`explicaciones varias`: https://drive.google.com/file/d/1TSIqU0SPCkoIWOd3ULVR-K3NLDXskDmP/view?usp=sharing
 .. _`prototipos`: https://drive.google.com/file/d/11zNEq2IAOD_-bG_E-nNkTg7oVwkR3_JB/view?usp=sharing
 .. _`ámbitos y clausuras`: https://drive.google.com/file/d/1GgliTmqwtc83HyjUJQ7BIzs4PtR0Kfow/view?usp=sharing
+.. _`aclaracionesP3`: https://drive.google.com/file/d/1xNnjRNiKukzoyrmcONbM1a_upd_X3WsF/view?usp=sharing
+.. _`componentes web`: https://drive.google.com/file/d/1U67L7_RqP8aPbOufiG4-Dcfv0T508g4-/view?usp=sharing
+
 
 
 
