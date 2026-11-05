@@ -28,7 +28,7 @@ REST es una arquitectura para implementar servicios web sobre el protocolo HTTP 
   
 En primer lugar, vamos a asignar a una variable de entorno el URL base de la API::
 
-  export endpoint=https://dai2526-martin.garcia-e29533c2.ey.r.appspot.com/carrito/v1
+  export endpoint=https://api-carritos.ew.r.appspot.com/carrito/v1
 
 .. cambiar enlace a GAE en dos sitios de esta página
 
