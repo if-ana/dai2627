@@ -148,10 +148,11 @@ Actividades previas a las clases
 
  - Antes de la clase del 03/11/2026: lee detenidamente y practica con lo discutido en las actividades siguientes: ":ref:`label-intro-comp`", ":ref:`label-ejemplo-comp`" y ":ref:`label-avanzado-comp`". A continuación, contesta el `test sobre componentes web`_ (plazo límite: 11/01/2026, 23:59 horas). Os dejo las explicaciones vistas en clase de practicas `aclaracionesP3`_, y en clase de teoria `componentes web`_
 
- - Antes de la clase del 10/11/2026: lee detenidamente y practica con lo discutido en las actividades siguientes: ":ref:`label-curl`", ":ref:`label-cliente-rest`" y ":ref:`label-servidor-rest`"; la última incluye un vídeo con una traza de la aplicación del carrito (duración: 28 minutos; unos 20 a 1,5x). Para poder practicar con el código de esas actividades, tendrás que configurar tu entorno de trabajo como se indica en la actividad ":ref:`label-local`". A continuación, contesta el `test sobre implementación de servicios web`_ (plazo límite: 08/11/2026, 23:59 horas).
+ - Antes de la clase del 10/11/2026: lee detenidamente y practica con lo discutido en las actividades siguientes: ":ref:`label-curl`", ":ref:`label-cliente-rest`" y ":ref:`label-servidor-rest`"; la última incluye un vídeo con una traza de la aplicación del carrito (duración: 28 minutos; unos 20 a 1,5x). Para poder practicar con el código de esas actividades, tendrás que configurar tu entorno de trabajo como se indica en la actividad ":ref:`label-local`". A continuación, contesta el `test sobre implementación de servicios web`_ (plazo límite: 08/11/2026, 23:59 horas). Os dejo los archivos vistos en clase `prueba api rest`_, `peticiones cliente`_, `servidor`_, `ejemplo implementacion api rest guiado`_.
+
+- Antes de la clase del 17/11/2026: practica con lo que se comenta en las actividades siguientes: ":ref:`label-local`", ":ref:`label-prueba-carrito`", ":ref:`label-api-cambio`", ":ref:`label-gcp-deploy`" y ":ref:`label-cors`". A continuación, contesta el `test sobre despliegue de aplicaciones web`_ (plazo límite: 15/11/2026, 23:59 horas)
 
 ..
- - Antes de la clase del 24/11/2026: practica con lo que se comenta en las actividades siguientes: ":ref:`label-local`", ":ref:`label-prueba-carrito`", ":ref:`label-api-cambio`", ":ref:`label-gcp-deploy`" y ":ref:`label-cors`". A continuación, contesta el `test sobre despliegue de aplicaciones web`_ (plazo límite: 22/11/2026, 23:59 horas)
  - Antes de la clase del 01/12/2026: sigue (si no lo hiciste ya) la actividad ":ref:`label-gcloud`", donde se muestra cómo configurar tu entorno de trabajo para poder trabajar con la nube de Google, y, a continuación, la actividad ":ref:`label-gcp`" en la que tendrás que ver unos vídeos (duración: 40 minutos), leer unos tutoriales y realizar un pequeño ejercicio. A continuación, contesta el `test sobre Google Cloud Platform`_ (plazo límite: 29/11/2026, 23:59 horas)
  - Antes de la clase del 15/12/2026: realiza la actividad ":ref:`label-comp-nube`", que incluye la lectura de una definición concisa de lo que es la computación en la nube y el visionado de unos vídeos; a continuación, contesta el `test sobre computación en la nube`_ (plazo límite: 13/12/2026, 23:59 horas). Después, realiza la actividad ":ref:`label-appengine`", en la que aprenderás a desplegar en la nube la aplicación del carrito, lo que necesitarás saber hacer por ti mismo como paso final de la práctica 4.
  - Antes de la clase del 22/12/2026: realiza la actividad ":ref:`label-extracss`" en la que has de ver un par de vídeos sobre características adicionales de CSS (duración total de los vídeos: unas 2 horas y media; un poco más de 1 hora y media a 1,5x). A continuación, contesta el `test sobre características adicionales de CSS`_ (plazo límite: 20/12/2026, 23:59 horas).
@@ -188,6 +189,10 @@ Actividades previas a las clases
 .. _`ámbitos y clausuras`: https://drive.google.com/file/d/1GgliTmqwtc83HyjUJQ7BIzs4PtR0Kfow/view?usp=sharing
 .. _`aclaracionesP3`: https://drive.google.com/file/d/1xNnjRNiKukzoyrmcONbM1a_upd_X3WsF/view?usp=sharing
 .. _`componentes web`: https://drive.google.com/file/d/1U67L7_RqP8aPbOufiG4-Dcfv0T508g4-/view?usp=sharing
+.. _`prueba api rest`:https://drive.google.com/file/d/1dK9aaoYUDOvswvUzHxObQI-KWe0HHj3e/view?usp=sharing
+.. _`peticiones cliente`:https://drive.google.com/file/d/1XseRkdtWrx72J1GHpxqBtNQ9cpnH1o6h/view?usp=sharing
+.. _`servidor`:https://drive.google.com/file/d/1WWJWx6VFJ3uZtdCgUepXXGQbRTu4C244/view?usp=sharing
+.. _`ejemplo implementacion api rest guiado`:https://drive.google.com/file/d/1TMUD9ONfWxfAc9Ws-w6kWK8zmdwk6Jfu/view?usp=sharing
 
 
 
