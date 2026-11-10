@@ -189,10 +189,10 @@ Actividades previas a las clases
 .. _`ámbitos y clausuras`: https://drive.google.com/file/d/1GgliTmqwtc83HyjUJQ7BIzs4PtR0Kfow/view?usp=sharing
 .. _`aclaracionesP3`: https://drive.google.com/file/d/1xNnjRNiKukzoyrmcONbM1a_upd_X3WsF/view?usp=sharing
 .. _`componentes web`: https://drive.google.com/file/d/1U67L7_RqP8aPbOufiG4-Dcfv0T508g4-/view?usp=sharing
-.. _`prueba api rest`:https://drive.google.com/file/d/1dK9aaoYUDOvswvUzHxObQI-KWe0HHj3e/view?usp=sharing
-.. _`peticiones cliente`:https://drive.google.com/file/d/1XseRkdtWrx72J1GHpxqBtNQ9cpnH1o6h/view?usp=sharing
-.. _`servidor`:https://drive.google.com/file/d/1WWJWx6VFJ3uZtdCgUepXXGQbRTu4C244/view?usp=sharing
-.. _`ejemplo implementacion api rest guiado`:https://drive.google.com/file/d/1TMUD9ONfWxfAc9Ws-w6kWK8zmdwk6Jfu/view?usp=sharing
+.. _`prueba api rest`: https://drive.google.com/file/d/1dK9aaoYUDOvswvUzHxObQI-KWe0HHj3e/view?usp=sharing
+.. _`peticiones cliente`: https://drive.google.com/file/d/1XseRkdtWrx72J1GHpxqBtNQ9cpnH1o6h/view?usp=sharing
+.. _`servidor`: https://drive.google.com/file/d/1WWJWx6VFJ3uZtdCgUepXXGQbRTu4C244/view?usp=sharing
+.. _`ejemplo implementacion api rest guiado`: https://drive.google.com/file/d/1TMUD9ONfWxfAc9Ws-w6kWK8zmdwk6Jfu/view?usp=sharing
 
 
 
