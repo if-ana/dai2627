@@ -163,7 +163,7 @@ Actividades previas a las clases
 .. _`test sobre computación en la nube`: https://forms.gle/NLHFgKywLX9tymmF9
 .. _`test sobre Google Cloud Platform`: https://forms.gle/NKdCasAXTM6TtBkS6
 .. _`test sobre despliegue de aplicaciones web`: https://forms.gle/gXe4RaBqJFTMEL2X9
-.. _`test sobre implementación de servicios web`: https://forms.gle/mniaYUdeT2iZG5oS8
+.. _`test sobre implementación de servicios web`: https://forms.gle/8LnLV4cHbAGbfbUr5
 .. _`test sobre componentes web`: https://forms.gle/T1Zcy3i4234xfCEGA
 .. _`test sobre acceso a servicios web`: https://forms.gle/ksAJWEkQcdcPny8AA
 .. _`test sobre prototipos y clausuras en JavaScript`: https://forms.gle/ncr61mWz2FK3yuaN8
