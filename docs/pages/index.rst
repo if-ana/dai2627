@@ -33,6 +33,8 @@ Novedades
     :header-rows: 0
     :class: tablita
 
+    * - 11 nov
+      - Ya tenéis disponibles en Moddle la publicación de las notas de la práctica 2.
     * - 03 nov
       - Puedes consultar el siguiente documento sobre una primera `aclaración`_ de la práctica 3.
     * - 16 oct
