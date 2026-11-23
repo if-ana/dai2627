@@ -33,7 +33,7 @@ fi
 
 
 CHAR6=`echo $RANDOM | md5sum | head -c 8`  # cadena aleatoria de longitud 8
-CURSO=dai2526
+CURSO=dai2627
 PROYECTO=$CURSO-$ESTUDIANTE_ID-$CHAR6
 
 echo "Creando el proyecto en GCP..."
