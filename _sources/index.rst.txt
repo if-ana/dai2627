@@ -32,7 +32,9 @@ Novedades
     :widths: 10 90
     :header-rows: 0
     :class: tablita
-
+  
+    * - 27 nov
+      - Ya tenéis disponibles en Moddle la publicación de las notas de la práctica 3.  
     * - 19 nov 
       - Mi correo de gcloud es ana.marcof@gcloud.ua.es
     * - 11 nov
